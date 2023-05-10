@@ -27,7 +27,7 @@
   
 <h3 align="left">Estadisticas de Github:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelgarcia151999&show_icons=true&locale=en&layout=compact" alt="miguelgarcia151999" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelgarcia151999&show_icons=true&locale=en" alt="miguelgarcia151999" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=miguelgarcia151999&show_icons=true&locale=en" alt="miguelgarcia151999" /></p>
 
 <div> 
   <!-- 
