@@ -23,9 +23,8 @@
 
 <h3 align="left">Sistemas operativos:</h3>
 <p align="left"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
-<p align="left"><a href="https://learn.microsoft.com/es-mx/docs/" target="_blank" rel="noreferrer"> <img src="http://www.w3.org/2000/svg" alt="windows" width="40" height="40"/> </a></p>
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M0 12v-8.646l10-1.355v10.001h-10zm11 0h13v-12l-13 1.807v10.193zm-1 1h-10v7.646l10 1.355v-9.001zm1 0v9.194l13 1.806v-11h-13z"/></svg>
-
+<p align="left"><a href="https://learn.microsoft.com/es-mx/docs/" target="_blank" rel="noreferrer"> <img src="[http://www.w3.org/2000/svg](https://iconos8.es/icon/108792/windows-10)" alt="windows" width="40" height="40"/> </a>
+  
 <h3 align="left">Estadisticas de Github:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelgarcia151999&show_icons=true&locale=en&layout=compact" alt="miguelgarcia151999" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelgarcia151999&show_icons=true&locale=en" alt="miguelgarcia151999" /></p>
