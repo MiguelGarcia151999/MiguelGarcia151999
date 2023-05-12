@@ -25,9 +25,8 @@
 <p align="left"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="c" width="40" height="40"/></a> 
 <a href="https://learn.microsoft.com/es-es/windows/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=108792&format=png" alt="javascript" width="40" height="40"/> </a> </p>
   
-<h3 align="left">Github Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelgarcia151999&show_icons=true&locale=en&layout=compact" alt="miguelgarcia151999" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=miguelgarcia151999&show_icons=true&locale=en" alt="miguelgarcia151999" /></p>
+<img align="left" alt="Estadisticas de Github" src="https://github-readme-stats.vercel.app/api?username=Jonicato" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonicato)](https://github.com/anuraghazra/github-readme-stats) 
 
 <div> 
   <!-- 
