@@ -26,7 +26,7 @@
 <a href="https://learn.microsoft.com/es-es/windows/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=108792&format=png" alt="javascript" width="40" height="40"/> </a> </p>
   
 <img align="left" alt="Estadisticas de Github" src="https://github-readme-stats.vercel.app/api?username=MiguelGarcia151999" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonicato)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelGarcia151999)](https://github.com/anuraghazra/github-readme-stats) 
 
 <div> 
   <!-- 
